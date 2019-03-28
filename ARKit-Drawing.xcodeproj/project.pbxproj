@@ -118,7 +118,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0930;
-				ORGANIZATIONNAME = "Chad Zeluff";
+				ORGANIZATIONNAME = bmcc;
 				TargetAttributes = {
 					BEDB2ED5200EABAD001C6BBC = {
 						CreatedOnToolsVersion = 9.2;
